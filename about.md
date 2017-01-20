@@ -1,5 +1,5 @@
 ---
-layout: no sidebar
+layout: contact
 title: About
 permalink: /about/
 ---
