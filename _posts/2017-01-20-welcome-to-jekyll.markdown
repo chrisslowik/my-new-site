@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title:  "Welcome to Jekyll!"
 date:   2017-01-20 13:06:44 -0800
 categories: jekyll update
